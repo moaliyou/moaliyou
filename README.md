@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Java, Kotlin, DSA and Linux OS**
 
-- 👯 I’m looking to collaborate on **Mobile Development**
+- 👯 I’m looking to collaborate on **Mobile Development & Java Development**
 
-- 💬 Ask me about **Java, Python and Graphic designing**
+- 💬 Ask me about **Java and Graphic designing**
 
 - 📫 How to reach me **moaliyou47@gmail.com**
 
