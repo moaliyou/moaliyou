@@ -1,19 +1,38 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Ali Yousuf</h1>
-<h3 align="center">A passionate graphic designer and programmer from Somalia</h3>
+<img align="center" alt="Android" width="1920" src="https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moaliyou&label=Profile%20views&color=0e75b6&style=flat" alt="moaliyou" /> </p>
+# 👨🏽‍💻 - Mahmoud Ali Yousuf
 
-- 🌱 I’m currently learning **Java, Kotlin, DSA and Linux OS**
+---
+**`Moaliyou (Developer/Content creator)`**
 
-- 👯 I’m looking to collaborate on **Mobile Development & Java Development**
+I'm an Android developer `Kotlin + Jetpack Compose` and content creator building my own version of the digital world one
+step at a time. All of my coding projects are built from brainstorming, planning and designing all the way to solving
+real-world problems with code and the same way with all the article contents. I publish them on my 2nd professional FB
+profile "[Kure Dema Bere](https://www.facebook.com/kuredema7)"
 
-- 💬 Ask me about **Java and Graphic designing**
 
-- 📫 How to reach me **moaliyou47@gmail.com**
+<p align="left">
+<a href="https://github.com/moaliyou?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/moaliyou?color=6c757d&labelColor=495057&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/moaliyou?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/moaliyou?color=ffd60a&style=for-the-badge&labelColor=ffc300&logo=star&logoColor=black"/></a>
+</p>
 
-- ⚡ Fun fact **I'm so funny :)**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🧰 Languages and Tools
+
+<img align="left" alt="Kotlin" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+<img align="left" alt="Kotlin" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg"/>
+<img align="left" alt="Kotlin" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ktor/ktor-original.svg"/>
+<img align="left" alt="Kotlin" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>
+<img align="left" alt="Kotlin" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+<img align="left" alt="Kotlin" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
+<img align="left" alt="Kotlin" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<br/>
+
+### Connect with me
+
 <p align="left">
 <a href="https://twitter.com/moaliyou47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moaliyou47" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-ali-yousuf-2a4498239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-ali-yousuf-2a4498239/" height="30" width="40" /></a>
@@ -21,7 +40,6 @@
 <a href="https://instagram.com/moaliyou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moaliyou" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### 📊 Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moaliyou&show_icons=true&locale=en&layout=compact" alt="moaliyou" /></p>
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=moaliyou&show_icons=true&theme=holi)
