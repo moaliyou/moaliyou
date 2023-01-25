@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moaliyou&label=Profile%20views&color=0e75b6&style=flat" alt="moaliyou" /> </p>
 
-- 🌱 I’m currently learning **Java, Kotlin, DSA and Linux OS**
+- 🌱 I’m currently learning **Java, DSA and Linux OS**
 
-- 👯 I’m looking to collaborate on **Mobile Development & Java Development**
+- 👯 I’m looking to collaborate on **Java Development For Backend**
 
 - 💬 Ask me about **Java and Graphic designing**
 
