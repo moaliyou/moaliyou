@@ -2,8 +2,6 @@
 
 # 👨🏽‍💻 - Mahmoud Ali Yousuf
 
----
-
 **`Moaliyou (Developer/Content creator)`**
 
 I'm an Android developer `Kotlin + Jetpack Compose` and content creator building my own version of the digital world one
