@@ -29,6 +29,7 @@ profile "[Kure Dema Bere](https://www.facebook.com/kuredema7)"
 <img align="left" alt="Kotlin" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
 <img align="left" alt="Kotlin" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <br/>
+<br/>
 
 ### Connect with me
 
